@@ -1,6 +1,6 @@
 // Step 1: Set base number to last digit on student ID (3)
 
-let baseNumber = 3; // Last digit of my student ID
+let baseNumber = 0; // Last digit of my student ID
 
 // Grade Calculator 
 
